@@ -5,17 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba44b735-47d8-4219-9486-9feb0e203707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/springtime_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springtime.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/learnprogramming/HelloMaven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/learnprogramming/HelloMaven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numberguessinggame/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numberguessinggame/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testy/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +26,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1xuxpM9SI14kiL06iTNc3nRiSf3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
