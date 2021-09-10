@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba44b735-47d8-4219-9486-9feb0e203707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../numberguessinggame/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numberguessinggame/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/core.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testy/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testy/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../testy/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numberguessinggame/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numberguessinggame/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../numberguessinggame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,5 +71,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
