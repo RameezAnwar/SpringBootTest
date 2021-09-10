@@ -11,4 +11,5 @@ public class HelloMaven {
         log.info( "Hello Info");
         log.debug( "Hello Debug");
     }
+
 }
