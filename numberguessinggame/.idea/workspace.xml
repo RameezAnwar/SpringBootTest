@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57435d5-0890-471f-96fd-f89f862d1dd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/logbacktest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/coding/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/coding/GameImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/coding/NumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/java/coding/NumberGeneratorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/src/main/resources/beans.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/logbacktest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/coding/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/logbacktest/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../springtime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springtime/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springtime/src/main/java/academy/learnprogramming/HelloMaven.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springtime/src/main/java/academy/learnprogramming/HelloMaven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -45,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Magikarp\Downloads\SpringBootTest\numberguessinggame\core\src\main\resources" />
       <recent name="C:\Users\Magikarp\Downloads\SpringBootTest\numberguessinggame\src\main\resources" />
     </key>
   </component>
@@ -56,11 +62,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logbacktest.Main" />
+      <option name="MAIN_CLASS_NAME" value="coding.Main" />
       <module name="core" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="logbacktest.*" />
+          <option name="PATTERN" value="coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
