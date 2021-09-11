@@ -2,6 +2,7 @@ package coding;
 
 import java.util.Random;
 
+
 public class NumberGeneratorImpl implements NumberGenerator {
 
     //fields

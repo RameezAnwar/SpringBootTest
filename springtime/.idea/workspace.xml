@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba44b735-47d8-4219-9486-9feb0e203707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/GameImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/NumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/NumberGeneratorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/MessageGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/MessageGeneratorImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../numberguessinggame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/logbacktest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/target/classes/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/target/classes/logbacktest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/GameImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/GameImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/NumberGeneratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/src/main/java/coding/NumberGeneratorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/src/main/resources/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/target/classes/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/target/classes/coding/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/target/classes/coding/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/target/classes/coding/NumberGeneratorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/target/classes/coding/NumberGeneratorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/target/core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/target/core-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numberguessinggame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../numberguessinggame/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
