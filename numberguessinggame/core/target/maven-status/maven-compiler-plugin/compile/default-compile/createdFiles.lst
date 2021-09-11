@@ -1,5 +1,7 @@
 coding\NumberGeneratorImpl.class
-coding\Main.class
 coding\Game.class
+coding\MessageGenerator.class
 coding\NumberGenerator.class
 coding\GameImpl.class
+coding\MessageGeneratorImpl.class
+coding\AppConfig.class

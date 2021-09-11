@@ -16,7 +16,7 @@ public class GameImpl implements Game{
     //fields
     @Autowired
     private NumberGenerator numberGenerator;
-    private int guessCount;
+    private int guessCount = 10;
     private int number;
     private int guess;
     private int smallest;
@@ -79,7 +79,7 @@ public class GameImpl implements Game{
     public void check() {
         checkValidNumberRange();
 
-        if( validNumberRange == true ) {
+        if(validNumberRange) {
             if( guess > number) {
                 biggest = guess -1;
             }

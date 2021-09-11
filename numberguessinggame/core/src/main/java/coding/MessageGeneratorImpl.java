@@ -15,6 +15,8 @@ public class MessageGeneratorImpl implements MessageGenerator{
     //fields
     @Autowired
     private Game game;
+
+
     private int guessCount = 10;
 
     //init
@@ -34,6 +36,7 @@ public class MessageGeneratorImpl implements MessageGenerator{
 
     @Override
     public String getResultMessage() {
+
         if( game.isGameWon()) {
             return "You guessed it! The number was " + game.getNumber();
         } else if( game.isGameLost()) {

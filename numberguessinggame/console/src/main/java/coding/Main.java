@@ -33,6 +33,8 @@ public class Main {
         MessageGenerator messageGenerator = context.getBean(MessageGenerator.class);
         log.info("getmainmessage {}", messageGenerator.getMainMessage());
         log.info("getresultmessage {}", messageGenerator.getResultMessage());
+
+
         //close container
         context.close();
 
