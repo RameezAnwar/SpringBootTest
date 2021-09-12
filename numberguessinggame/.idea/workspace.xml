@@ -5,33 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f57435d5-0890-471f-96fd-f89f862d1dd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/coding/GuessCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/coding/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/coding/MinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/coding/config/GameConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/resources/config/game.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/console/src/main/java/coding/ConsoleNumberGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/console/src/main/java/coding/ConsoleNumberGuess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/console/src/main/java/coding/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/console/src/main/java/coding/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/console/target/classes/coding/ConsoleNumberGuess.class" beforeDir="false" afterPath="$PROJECT_DIR$/console/target/classes/coding/ConsoleNumberGuess.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/console/target/classes/coding/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/console/target/classes/coding/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/console/target/console-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/console/target/console-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/console/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/console/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/coding/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/coding/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/coding/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/coding/Game.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/main/java/coding/GameImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/coding/GameImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/main/java/coding/MessageGeneratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/coding/MessageGeneratorImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/coding/NumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/coding/NumberGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/main/java/coding/NumberGeneratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/coding/NumberGeneratorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/coding/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/coding/config/GameConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/coding/config/GameConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/coding/AppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/coding/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/coding/Game.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/target/classes/coding/GameImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/coding/GameImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/target/classes/coding/MessageGeneratorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/coding/MessageGeneratorImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/target/classes/coding/NumberGeneratorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/coding/NumberGeneratorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/coding/config/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/coding/config/GameConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/coding/config/GameConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
