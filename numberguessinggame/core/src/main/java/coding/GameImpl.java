@@ -16,7 +16,12 @@ public class GameImpl implements Game{
     //fields
     @Autowired
     private NumberGenerator numberGenerator;
-    private int guessCount = 10;
+
+    @Autowired
+    @GuessCount
+    private int guessCount;
+
+
     private int number;
     private int guess;
     private int smallest;
@@ -29,12 +34,13 @@ public class GameImpl implements Game{
     @PostConstruct
     @Override
     public void reset() {
-        guess = 0;
-        smallest = 0;
+        guess = numberGenerator.getMinNumber();
+        smallest = numberGenerator.getMinNumber();
         biggest = numberGenerator.getMaxNumber();
         remainingGuesses = guessCount;
         number = numberGenerator.next();
         log.debug( "the number is {}", number);
+
     }
 
     @PreDestroy
@@ -72,6 +78,11 @@ public class GameImpl implements Game{
     @Override
     public int getRemainingGuesses() {
         return remainingGuesses;
+    }
+
+    @Override
+    public int getGuessCount() {
+        return guessCount;
     }
 
 

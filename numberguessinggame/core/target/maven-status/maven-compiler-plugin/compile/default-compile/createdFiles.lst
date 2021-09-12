@@ -1,7 +1,11 @@
+coding\config\AppConfig.class
+coding\config\GameConfig.class
+coding\GuessCount.class
+coding\NumberGenerator.class
+coding\Noww.class
+coding\GameImpl.class
+coding\MaxNumber.class
 coding\NumberGeneratorImpl.class
 coding\Game.class
 coding\MessageGenerator.class
-coding\NumberGenerator.class
-coding\GameImpl.class
 coding\MessageGeneratorImpl.class
-coding\AppConfig.class
